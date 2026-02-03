@@ -3,7 +3,7 @@ pipeline {
 
   tools {
     // 与「系统管理 → 全局工具配置」里 Node 名称一致，如 "Node 20"
-    nodejs 'Node 24'
+    nodejs 'Node 24.4.0'
   }
 
   environment {
